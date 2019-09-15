@@ -1,6 +1,5 @@
 # DiabetesPredictor
 ## Table of Contents ##
-=================
 
    * [Table of Contents](#table-of-contents)<br />
             * [Introduction](#introduction)<br />
