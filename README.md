@@ -1,4 +1,15 @@
 # DiabetesPredictor
+Table of Contents
+=================
+
+   * [DiabetesPredictor](#diabetespredictor)
+            * [Introduction](#introduction)
+            * [Problem Definition](#problem-definition)
+            * [Data Processing and Missing data handling](#data-processing-and-missing-data-handling)
+            * [Exploratory Data Analysis and Feature Extraction](#exploratory-data-analysis-and-feature-extraction)
+            * [Algorithm and Model Building](#algorithm-and-model-building)
+            * [Result](#result)
+            
 #### Introduction #### 
 
 We are trying to build a model which can predict whether a patient is diabetic or not based on different parameters. We use different methods to understand the given data, preprocess it and handle the missing as well as incorrect data.
