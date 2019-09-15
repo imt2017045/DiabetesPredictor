@@ -2,12 +2,12 @@
 Table of Contents
 =================
 
-   * [DiabetesPredictor](#diabetespredictor)
-            * [Introduction](#introduction)
-            * [Problem Definition](#problem-definition)
-            * [Data Processing and Missing data handling](#data-processing-and-missing-data-handling)
-            * [Exploratory Data Analysis and Feature Extraction](#exploratory-data-analysis-and-feature-extraction)
-            * [Algorithm and Model Building](#algorithm-and-model-building)
+   * [Table of Contents](#table-of-contents)<br />
+            * [Introduction](#introduction)<br />
+            * [Problem Definition](#problem-definition)<br />
+            * [Data Processing and Missing data handling](#data-processing-and-missing-data-handling)<br />
+            * [Exploratory Data Analysis and Feature Extraction](#exploratory-data-analysis-and-feature-extraction)<br />
+            * [Algorithm and Model Building](#algorithm-and-model-building)<br />
             * [Result](#result)
             
 #### Introduction #### 
