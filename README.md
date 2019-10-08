@@ -22,7 +22,7 @@ Given the Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Di
 Firstly, we detect the data points which have invalid values (such as negative pregnancies, or zero values for BMI and other columns) and replace them with NaN.
 We find that SkinThickness, Glucose and Insulin columns have the most NaN values. We fill the values in other columns which are NaN with column average.
 We remove top 2 percentile and bottom 5 percentile of data points as they are highly likely to be outliers.
-By looking at the median for Glucose after grouping it by Outcome, we clearly observe that diabetic patients have a higher median for Glucose. Hence, we replace the NaN values with median of corresponding group.
+By looking at the median for Glucose after grouping it by outcome, we clearly observe that diabetic patients have a higher median for Glucose. Hence, we replace the NaN values with median of corresponding group.
 Then using correlation matrix for SkinThickness and Insulin columns we find the columns on which they depend the most. Then we plot these and observe they roughly are in linear pattern. Then we make a linear regression model to fill these, SkinThickness with respect to BMI and Insulin with respect to Glucose and BMI.
 
 #### Exploratory Data Analysis and Feature Extraction #### 
